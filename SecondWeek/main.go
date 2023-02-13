@@ -1,4 +1,4 @@
-package main
+package SecondWeek
 
 import (
 	"fmt"
@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+
 	var square Math.Square
 	var company Companies.Company
 	var persons []Companies.Person
